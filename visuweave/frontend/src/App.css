@@ -11,10 +11,10 @@
   --text-color: #2D3748;
   --error-color: #EF4444;
   --input-bg: #FFFFFF;
-  --input-border: #b0b0b0;
+  --input-border: #E5E7EB;
   --chat-bubble-user: #4CAF50;
   --chat-bubble-ai: #FFFFFF;
-  --section-border: #b0b0b0;
+  --section-border: #E2E8F0;
   --hover-effect: rgba(0,0,0,0.03);
   --listening-color: #EF4444;
 }
