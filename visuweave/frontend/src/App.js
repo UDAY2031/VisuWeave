@@ -80,7 +80,7 @@ const App = () => {
 
   const tryImageExtensions = useCallback(async (object) => {
     const extensions = ['.png', '.jpg', '.jpeg', '.webp'];
-    const imageUrlBase = 'http://localhost:5000/images/';
+    const imageUrlBase = 'https://visuweave.onrender.com/images/';
     
     for (const ext of extensions) {
       const exists = await checkImageExists(`${imageUrlBase}${object}${ext}`);
