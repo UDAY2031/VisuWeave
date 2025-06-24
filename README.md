@@ -29,7 +29,7 @@ VisuWeave is an innovative full-stack web application designed to **translate sp
 ### 3. **Image Retrieval Pipeline**
 - Keywords are processed through the following prioritized flow:
 
-<img src="public/priority.png" width="450" alt="Image Retrieval Pipeline">
+<img src="frontend/public/priority.jpg" width="450" alt="Image Retrieval Pipeline">
 
 #### ➤ Priority Order:
 1. **Database**: Searches for keyword-matching images in a local or cloud-hosted database.
