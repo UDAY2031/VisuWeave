@@ -89,20 +89,4 @@ visuweave/
 
 ---
 
-## 🚀 Getting Started
 
-```bash
-git clone https://github.com/your-username/visuweave.git
-cd visuweave
-npm install
-----------------------------------------------------------
-For frontend:
-cd frontend
-npm start
-----------------------------------------------------------
-For backend:
-cd backend
-pip install -r requirements.txt
-node server.js
-----------------------------------------------------------
-```
